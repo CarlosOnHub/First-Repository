@@ -8,3 +8,4 @@
 * Robin
 * Volcán Negro
 * Carlos White
+* Carlos Black
